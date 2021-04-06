@@ -1,0 +1,20 @@
+<svg id="lines" xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f3d900;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #000;
+        stroke-width: 2px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <circle id="yellow_bg" data-name="yellow bg" class="cls-1" cx="32" cy="32" r="32"/>
+  <path id="line" class="cls-2" d="M18,37h0Z"/>
+  <path id="line-2" data-name="line" class="cls-2" d="M18,31h0Z"/>
+  <path id="line-3" data-name="line" class="cls-2" d="M18,24h0Z"/>
+</svg>
